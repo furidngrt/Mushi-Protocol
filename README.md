@@ -1,6 +1,5 @@
 full tutorial read  :  https://mushi.network/docs/
-
-test.sol
+use remix : https://remix.ethereum.org/
 
 ```
 // SPDX-License-Identifier: MIT
